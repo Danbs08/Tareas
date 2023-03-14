@@ -1,4 +1,4 @@
-# Blackjack Vite
+# Tareas Vite
 
 Pasos para ejecutar el proyecto
 
